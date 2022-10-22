@@ -54,10 +54,10 @@ RM = "C:/Program Files/CMake/bin/cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:/vscode/logger
+CMAKE_SOURCE_DIR = C:/vscode/logger/Logger
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:/vscode/logger/build
+CMAKE_BINARY_DIR = C:/vscode/logger/Logger/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/log.dir/clean
 CMakeFiles/log.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/log.dir/build.make CMakeFiles/log.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/log.dir/build.make CMakeFiles/log.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:/vscode/logger/build/CMakeFiles --progress-num=1,2,3 "Built target log"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:/vscode/logger/Logger/build/CMakeFiles --progress-num=1,2,3 "Built target log"
 .PHONY : CMakeFiles/log.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/log.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:/vscode/logger/build/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start C:/vscode/logger/Logger/build/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/log.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:/vscode/logger/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:/vscode/logger/Logger/build/CMakeFiles 0
 .PHONY : CMakeFiles/log.dir/rule
 
 # Convenience name for target.

@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/vscode/logger/main.cpp" "CMakeFiles/log.dir/main.cpp.obj" "gcc" "CMakeFiles/log.dir/main.cpp.obj.d"
-  "C:/vscode/logger/source/logger.cpp" "CMakeFiles/log.dir/source/logger.cpp.obj" "gcc" "CMakeFiles/log.dir/source/logger.cpp.obj.d"
+  "C:/vscode/logger/Logger/main.cpp" "CMakeFiles/log.dir/main.cpp.obj" "gcc" "CMakeFiles/log.dir/main.cpp.obj.d"
+  "C:/vscode/logger/Logger/source/logger.cpp" "CMakeFiles/log.dir/source/logger.cpp.obj" "gcc" "CMakeFiles/log.dir/source/logger.cpp.obj.d"
   )
 
 # Targets to which this target links.

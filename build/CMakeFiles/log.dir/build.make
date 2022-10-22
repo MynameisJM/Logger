@@ -53,10 +53,10 @@ RM = "C:/Program Files/CMake/bin/cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:/vscode/logger
+CMAKE_SOURCE_DIR = C:/vscode/logger/Logger
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:/vscode/logger/build
+CMAKE_BINARY_DIR = C:/vscode/logger/Logger/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/log.dir/depend.make
@@ -71,33 +71,33 @@ include CMakeFiles/log.dir/flags.make
 
 CMakeFiles/log.dir/source/logger.cpp.obj: CMakeFiles/log.dir/flags.make
 CMakeFiles/log.dir/source/logger.cpp.obj: CMakeFiles/log.dir/includes_CXX.rsp
-CMakeFiles/log.dir/source/logger.cpp.obj: C:/vscode/logger/source/logger.cpp
+CMakeFiles/log.dir/source/logger.cpp.obj: C:/vscode/logger/Logger/source/logger.cpp
 CMakeFiles/log.dir/source/logger.cpp.obj: CMakeFiles/log.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:/vscode/logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/log.dir/source/logger.cpp.obj"
-	C:/360/mingw64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/log.dir/source/logger.cpp.obj -MF CMakeFiles/log.dir/source/logger.cpp.obj.d -o CMakeFiles/log.dir/source/logger.cpp.obj -c C:/vscode/logger/source/logger.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:/vscode/logger/Logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/log.dir/source/logger.cpp.obj"
+	C:/360/mingw64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/log.dir/source/logger.cpp.obj -MF CMakeFiles/log.dir/source/logger.cpp.obj.d -o CMakeFiles/log.dir/source/logger.cpp.obj -c C:/vscode/logger/Logger/source/logger.cpp
 
 CMakeFiles/log.dir/source/logger.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/log.dir/source/logger.cpp.i"
-	C:/360/mingw64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:/vscode/logger/source/logger.cpp > CMakeFiles/log.dir/source/logger.cpp.i
+	C:/360/mingw64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:/vscode/logger/Logger/source/logger.cpp > CMakeFiles/log.dir/source/logger.cpp.i
 
 CMakeFiles/log.dir/source/logger.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/log.dir/source/logger.cpp.s"
-	C:/360/mingw64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:/vscode/logger/source/logger.cpp -o CMakeFiles/log.dir/source/logger.cpp.s
+	C:/360/mingw64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:/vscode/logger/Logger/source/logger.cpp -o CMakeFiles/log.dir/source/logger.cpp.s
 
 CMakeFiles/log.dir/main.cpp.obj: CMakeFiles/log.dir/flags.make
 CMakeFiles/log.dir/main.cpp.obj: CMakeFiles/log.dir/includes_CXX.rsp
-CMakeFiles/log.dir/main.cpp.obj: C:/vscode/logger/main.cpp
+CMakeFiles/log.dir/main.cpp.obj: C:/vscode/logger/Logger/main.cpp
 CMakeFiles/log.dir/main.cpp.obj: CMakeFiles/log.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:/vscode/logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/log.dir/main.cpp.obj"
-	C:/360/mingw64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/log.dir/main.cpp.obj -MF CMakeFiles/log.dir/main.cpp.obj.d -o CMakeFiles/log.dir/main.cpp.obj -c C:/vscode/logger/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:/vscode/logger/Logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/log.dir/main.cpp.obj"
+	C:/360/mingw64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/log.dir/main.cpp.obj -MF CMakeFiles/log.dir/main.cpp.obj.d -o CMakeFiles/log.dir/main.cpp.obj -c C:/vscode/logger/Logger/main.cpp
 
 CMakeFiles/log.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/log.dir/main.cpp.i"
-	C:/360/mingw64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:/vscode/logger/main.cpp > CMakeFiles/log.dir/main.cpp.i
+	C:/360/mingw64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:/vscode/logger/Logger/main.cpp > CMakeFiles/log.dir/main.cpp.i
 
 CMakeFiles/log.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/log.dir/main.cpp.s"
-	C:/360/mingw64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:/vscode/logger/main.cpp -o CMakeFiles/log.dir/main.cpp.s
+	C:/360/mingw64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:/vscode/logger/Logger/main.cpp -o CMakeFiles/log.dir/main.cpp.s
 
 # Object files for target log
 log_OBJECTS = \
@@ -112,7 +112,7 @@ log.exe: CMakeFiles/log.dir/main.cpp.obj
 log.exe: CMakeFiles/log.dir/build.make
 log.exe: CMakeFiles/log.dir/linklibs.rsp
 log.exe: CMakeFiles/log.dir/objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:/vscode/logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable log.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:/vscode/logger/Logger/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable log.exe"
 	"C:/Program Files/CMake/bin/cmake.exe" -E rm -f CMakeFiles/log.dir/objects.a
 	C:/360/mingw64/ucrt64/bin/ar.exe qc CMakeFiles/log.dir/objects.a @CMakeFiles/log.dir/objects1.rsp
 	C:/360/mingw64/ucrt64/bin/g++.exe -g -Wl,--whole-archive CMakeFiles/log.dir/objects.a -Wl,--no-whole-archive -o log.exe -Wl,--out-implib,liblog.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/log.dir/linklibs.rsp
@@ -126,6 +126,6 @@ CMakeFiles/log.dir/clean:
 .PHONY : CMakeFiles/log.dir/clean
 
 CMakeFiles/log.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" C:/vscode/logger C:/vscode/logger C:/vscode/logger/build C:/vscode/logger/build C:/vscode/logger/build/CMakeFiles/log.dir/DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" C:/vscode/logger/Logger C:/vscode/logger/Logger C:/vscode/logger/Logger/build C:/vscode/logger/Logger/build C:/vscode/logger/Logger/build/CMakeFiles/log.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/log.dir/depend
 

@@ -19,6 +19,8 @@
     Logger::get_instance()->log(Logger::FATAL,__FILE__,__LINE__,format, ##__VA_ARGS__);
 
 #define LEVEL(l) (Logger::get_instance()->level((l)));   // 要带括号！ 并且要避开同名形参啊， LEVEL(level) 跟level()冲突了！
+
+#define MAX(m) (Logger::get_instance()->max((m)));
     
 namespace jjm{
 

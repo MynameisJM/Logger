@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/vscode/logger/build"
+			"value" : "c:/vscode/logger/Logger/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -155,10 +155,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "C:/360/mingw64/ucrt64/bin/g++.exe"
 		},
 		{
@@ -299,10 +299,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "C:/360/mingw64/ucrt64/bin/gcc.exe"
 		},
 		{
@@ -587,7 +587,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/vscode/logger/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/vscode/logger/Logger/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/vscode/logger"
+			"value" : "C:/vscode/logger/Logger"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -671,7 +671,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Project"
+			"value" : "C:/Program Files (x86)/logger"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1270,42 +1270,6 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Project_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/vscode/logger/build"
-		},
-		{
-			"name" : "Project_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "Project_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/vscode/logger"
-		},
-		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
 			"properties" : 
 			[
@@ -1327,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/vscode/logger/build"
+			"value" : "C:/vscode/logger/Logger/build"
 		},
 		{
 			"name" : "logger_IS_TOP_LEVEL",
@@ -1351,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/vscode/logger"
+			"value" : "C:/vscode/logger/Logger"
 		}
 	],
 	"kind" : "cache",

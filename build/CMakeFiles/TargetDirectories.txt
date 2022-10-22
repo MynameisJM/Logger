@@ -1,3 +1,3 @@
-C:/vscode/logger/build/CMakeFiles/log.dir
-C:/vscode/logger/build/CMakeFiles/edit_cache.dir
-C:/vscode/logger/build/CMakeFiles/rebuild_cache.dir
+C:/vscode/logger/Logger/build/CMakeFiles/log.dir
+C:/vscode/logger/Logger/build/CMakeFiles/edit_cache.dir
+C:/vscode/logger/Logger/build/CMakeFiles/rebuild_cache.dir

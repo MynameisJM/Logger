@@ -6,7 +6,7 @@ int main()
 {
    int age  = 19;
    Logger::get_instance()->open("./log.log");
-   Logger::get_instance()->max(128);
+   MAX(256);
    LEVEL(Logger::ERROR)
 
    DEBUG("DEGUG");

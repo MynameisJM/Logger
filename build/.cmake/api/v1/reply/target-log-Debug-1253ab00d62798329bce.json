@@ -52,7 +52,7 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "C:/vscode/logger/include"
+					"path" : "C:/vscode/logger/Logger/include"
 				}
 			],
 			"language" : "CXX",

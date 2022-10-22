@@ -1,5 +1,6 @@
 CMakeFiles/log.dir/source/logger.cpp.obj: \
- C:/vscode/logger/source/logger.cpp C:/vscode/logger/include/logger.h \
+ C:/vscode/logger/Logger/source/logger.cpp \
+ C:/vscode/logger/Logger/include/logger.h \
  C:/360/mingw64/ucrt64/include/c++/12.1.1/string \
  C:/360/mingw64/ucrt64/include/c++/12.1.1/x86_64-w64-mingw32/bits/c++config.h \
  C:/360/mingw64/ucrt64/include/c++/12.1.1/x86_64-w64-mingw32/bits/os_defines.h \
