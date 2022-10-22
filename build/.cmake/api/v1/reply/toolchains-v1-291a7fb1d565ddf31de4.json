@@ -1,0 +1,143 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/360/mingw64/ucrt64/lib/gcc/x86_64-w64-mingw32/12.1.1/include",
+						"C:/360/mingw64/ucrt64/include",
+						"C:/360/mingw64/ucrt64/lib/gcc/x86_64-w64-mingw32/12.1.1/include-fixed"
+					],
+					"linkDirectories" : 
+					[
+						"C:/360/mingw64/ucrt64/lib/gcc/x86_64-w64-mingw32/12.1.1",
+						"C:/360/mingw64/ucrt64/lib/gcc",
+						"C:/360/mingw64/ucrt64/x86_64-w64-mingw32/lib",
+						"C:/360/mingw64/ucrt64/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"mcfgthread",
+						"kernel32",
+						"ntdll",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"mcfgthread",
+						"kernel32",
+						"ntdll"
+					]
+				},
+				"path" : "C:/360/mingw64/ucrt64/bin/gcc.exe",
+				"version" : "12.1.1"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/360/mingw64/ucrt64/include/c++/12.1.1",
+						"C:/360/mingw64/ucrt64/include/c++/12.1.1/x86_64-w64-mingw32",
+						"C:/360/mingw64/ucrt64/include/c++/12.1.1/backward",
+						"C:/360/mingw64/ucrt64/lib/gcc/x86_64-w64-mingw32/12.1.1/include",
+						"C:/360/mingw64/ucrt64/include",
+						"C:/360/mingw64/ucrt64/lib/gcc/x86_64-w64-mingw32/12.1.1/include-fixed"
+					],
+					"linkDirectories" : 
+					[
+						"C:/360/mingw64/ucrt64/lib/gcc/x86_64-w64-mingw32/12.1.1",
+						"C:/360/mingw64/ucrt64/lib/gcc",
+						"C:/360/mingw64/ucrt64/x86_64-w64-mingw32/lib",
+						"C:/360/mingw64/ucrt64/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"mcfgthread",
+						"kernel32",
+						"ntdll",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"mcfgthread",
+						"kernel32",
+						"ntdll"
+					]
+				},
+				"path" : "C:/360/mingw64/ucrt64/bin/g++.exe",
+				"version" : "12.1.1"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "C:/360/mingw64/ucrt64/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

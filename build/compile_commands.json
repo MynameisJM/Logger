@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/vscode/logger/build",
+  "command": "C:/360/mingw64/ucrt64/bin/g++.exe  @CMakeFiles/log.dir/includes_CXX.rsp -g -o CMakeFiles/log.dir/source/logger.cpp.obj -c C:/vscode/logger/source/logger.cpp",
+  "file": "C:/vscode/logger/source/logger.cpp"
+},
+{
+  "directory": "C:/vscode/logger/build",
+  "command": "C:/360/mingw64/ucrt64/bin/g++.exe  @CMakeFiles/log.dir/includes_CXX.rsp -g -o CMakeFiles/log.dir/main.cpp.obj -c C:/vscode/logger/main.cpp",
+  "file": "C:/vscode/logger/main.cpp"
+}
+]

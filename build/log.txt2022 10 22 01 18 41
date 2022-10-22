@@ -1,0 +1,70 @@
+2022-10-21 22:20:44 DEBUG C:/vscode/logger/main.cpp:9 
+2022-10-21 22:20:48 DEBUG C:/vscode/logger/main.cpp:9 
+2022-10-21 22:20:57 DEBUG C:/vscode/logger/main.cpp:9 
+2022-10-21 22:20:58 DEBUG C:/vscode/logger/main.cpp:9 
+2022-10-21 22:20:58 DEBUG C:/vscode/logger/main.cpp:9 
+2022-10-21 22:20:59 DEBUG C:/vscode/logger/main.cpp:9 
+2022-10-21 22:33:24 DEBUG C:/vscode/logger/main.cpp:9 Debug.
+2022-10-21 22:33:24 ERROR C:/vscode/logger/main.cpp:10 error info.
+2022-10-21 22:33:24 WARN C:/vscode/logger/main.cpp:11 haha..I am here.
+2022-10-21 22:33:24 INFO C:/vscode/logger/main.cpp:12 haha..I am here.
+2022-10-21 22:33:24 FATAL C:/vscode/logger/main.cpp:13 memory leak.
+2022-10-21 22:33:24 DEBUG C:/vscode/logger/main.cpp:14 There is a bug.
+2022-10-21 22:33:24 INFO C:/vscode/logger/main.cpp:15 haha..I am ego.
+2022-10-21 22:51:04 DEBUG C:/vscode/logger/main.cpp:9 DEGUG
+2022-10-21 22:56:57 DEBUG C:/vscode/logger/main.cpp:9 DEGUG
+2022-10-21 22:56:57 DEBUG C:/vscode/logger/main.cpp:10 THERE IS A ERROR MESSAGES.
+2022-10-21 22:56:57 DEBUG C:/vscode/logger/main.cpp:11 I am ego, age 19
+2022-10-21 22:56:57 DEBUG C:/vscode/logger/main.cpp:12 maybe a worry case.
+2022-10-21 22:56:57 DEBUG C:/vscode/logger/main.cpp:13 break down.
+2022-10-21 22:56:57 DEBUG C:/vscode/logger/main.cpp:14 id connection faild.
+2022-10-21 22:57:04 DEBUG C:/vscode/logger/main.cpp:9 DEGUG
+2022-10-21 22:57:04 DEBUG C:/vscode/logger/main.cpp:10 THERE IS A ERROR MESSAGES.
+2022-10-21 22:57:04 DEBUG C:/vscode/logger/main.cpp:11 I am ego, age 19
+2022-10-21 22:57:04 DEBUG C:/vscode/logger/main.cpp:12 maybe a worry case.
+2022-10-21 22:57:04 DEBUG C:/vscode/logger/main.cpp:13 break down.
+2022-10-21 22:57:04 DEBUG C:/vscode/logger/main.cpp:14 id connection faild.
+2022-10-21 23:08:28 ERROR C:/vscode/logger/main.cpp:12 THERE IS A ERROR MESSAGES.
+2022-10-21 23:08:28 INFO C:/vscode/logger/main.cpp:13 I am ego, age 19
+2022-10-21 23:08:28 WARN C:/vscode/logger/main.cpp:14 maybe a worry case.
+2022-10-21 23:08:28 FATAL C:/vscode/logger/main.cpp:15 break down.
+2022-10-21 23:08:28 INFO C:/vscode/logger/main.cpp:16 id connection faild.
+2022-10-21 23:09:31 FATAL C:/vscode/logger/main.cpp:15 break down.
+2022-10-21 23:11:50 FATAL C:/vscode/logger/main.cpp:15 message: break down.
+2022-10-21 23:21:42 FATAL C:/vscode/logger/main.cpp:16 message: break down.
+2022-10-21 23:23:23 WARN C:/vscode/logger/main.cpp:11 message: Logger::WARN
+2022-10-21 23:23:23 DEBUG C:/vscode/logger/main.cpp:12 message: DEGUG
+2022-10-21 23:23:23 ERROR C:/vscode/logger/main.cpp:13 message: THERE IS A ERROR MESSAGES.
+2022-10-21 23:23:23 INFO C:/vscode/logger/main.cpp:14 message: I am ego, aged 19
+2022-10-21 23:23:23 WARN C:/vscode/logger/main.cpp:15 message: maybe a worry case.
+2022-10-21 23:23:23 FATAL C:/vscode/logger/main.cpp:16 message: break down.
+2022-10-21 23:23:23 INFO C:/vscode/logger/main.cpp:17 message: id connection faild.
+2022-10-21 23:25:52 WARN C:/vscode/logger/main.cpp:11 message: #level
+2022-10-21 23:25:52 DEBUG C:/vscode/logger/main.cpp:12 message: DEGUG
+2022-10-21 23:25:52 ERROR C:/vscode/logger/main.cpp:13 message: THERE IS A ERROR MESSAGES.
+2022-10-21 23:25:52 INFO C:/vscode/logger/main.cpp:14 message: I am ego, aged 19
+2022-10-21 23:25:52 WARN C:/vscode/logger/main.cpp:15 message: maybe a worry case.
+2022-10-21 23:25:52 FATAL C:/vscode/logger/main.cpp:16 message: break down.
+2022-10-21 23:25:52 INFO C:/vscode/logger/main.cpp:17 message: id connection faild.
+2022-10-21 23:43:27 WARN C:/vscode/logger/main.cpp:11 message: ##level
+2022-10-21 23:43:27 DEBUG C:/vscode/logger/main.cpp:12 message: DEGUG
+2022-10-21 23:43:27 ERROR C:/vscode/logger/main.cpp:13 message: THERE IS A ERROR MESSAGES.
+2022-10-21 23:43:27 INFO C:/vscode/logger/main.cpp:14 message: I am ego, aged 19
+2022-10-21 23:43:27 WARN C:/vscode/logger/main.cpp:15 message: maybe a worry case.
+2022-10-21 23:43:27 FATAL C:/vscode/logger/main.cpp:16 message: break down.
+2022-10-21 23:43:27 INFO C:/vscode/logger/main.cpp:17 message: id connection faild.
+2022-10-21 23:57:26 ERROR C:/vscode/logger/main.cpp:13 message: THERE IS A ERROR MESSAGES.
+2022-10-21 23:57:26 WARN C:/vscode/logger/main.cpp:15 message: maybe a worry case.
+2022-10-21 23:57:26 FATAL C:/vscode/logger/main.cpp:16 message: break down.
+2022-10-22 00:09:18 ERROR C:/vscode/logger/main.cpp:13 message: THERE IS A ERROR MESSAGES.
+2022-10-22 00:09:18 WARN C:/vscode/logger/main.cpp:15 message: maybe a worry case.
+2022-10-22 00:09:18 FATAL C:/vscode/logger/main.cpp:16 message: break down.
+2022-10-22 00:11:11 ERROR C:/vscode/logger/main.cpp:13 message: THERE IS A ERROR MESSAGES.
+2022-10-22 00:11:11 FATAL C:/vscode/logger/main.cpp:16 message: break down.
+2022-10-22 00:57:22 ERROR C:/vscode/logger/main.cpp:13 message: THERE IS A ERROR MESSAGES.
+2022-10-22 01:03:11 ERROR C:/vscode/logger/main.cpp:13 message: THERE IS A ERROR MESSAGES.
+2022-10-22 01:04:20 ERROR C:/vscode/logger/main.cpp:13 message: THERE IS A ERROR MESSAGES.
+2022-10-22 01:09:56 ERROR C:/vscode/logger/main.cpp:13 message: THERE IS A ERROR MESSAGES.
+2022-10-22 01:14:12 ERROR C:/vscode/logger/main.cpp:13 message: THERE IS A ERROR MESSAGES.
+2022-10-22 01:14:54 ERROR C:/vscode/logger/main.cpp:13 message: THERE IS A ERROR MESSAGES.
+2022-10-22 01:18:41 ERROR C:/vscode/logger/main.cpp:13 message: THERE IS A ERROR MESSAGES.
